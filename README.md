@@ -13,4 +13,4 @@ Informations complémentaires :
 
 Le jeu se joue dans le terminal. Pour jouer, il faut lancer le fichier exécutable. (./jeux_x)
 
-Le nombre de lignes et colonnes doit être pair et compris entre 3 et 7.
+Le nombre de lignes et de colonnes doit être pair et compris entre 3 et 7.
